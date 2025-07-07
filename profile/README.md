@@ -1,9 +1,15 @@
 ## Hi there 👋
 
-Welcome to the GitHub account of the Professorship of Adaptive Behvaior of Autonomous Vehicles. Our lab, led by Univ.-Prof. Dr.-Ing. Bassam Alrifaee, specializes in intelligent control of autonomous systems, with a particular focus on multi-agent systems. Our research spans distributed predictive control, service-oriented software architectures, localization systems, and applications to connected and automated vehicles (CAVs).
+Welcome to the GitHub account of the Professorship of Adaptive Behvaior of Autonomous Vehicles. Our lab, led by Univ.-Prof. Dr.-Ing. Bassam Alrifaee, specializes in intelligent control of autonomous systems, with a particular focus on multi-agent systems. Here you will find all of our software developed for our research. 
 
-<img src="https://github.com/user-attachments/assets/e098e812-df86-445a-a455-b8b887cce91f" align="center" height="400">
+We welcome collaboration — feel free to explore, use, and contribute to our work!
 
+## 📫 Contact & Links
 
-We strive to contribute not only to the safety and performance of these systems but also to their environmental impact. Funded by public organizations and industrial partners, we engage in various projects in this dynamic research area. Embracing diversity, equity, and Inclusion, we recognize that multiple, different perspectives and backgrounds are important for advancing our research goals. Additionally, our commitment extends to education, and we actively value and contribute to teaching. Through this multifaceted approach, we aim to foster a holistic environment that integrates cutting-edge research, diversity, and educational excellence.
+- [CPM Lab Website](https://cpm.lrt.unibw.de)
+- [YouTube](https://www.youtube.com/@bassamlab)
+- [Professorship](https://www.unibw.de/cas-en)
+- [Institute](https://www.unibw.de/as-en)
+- [Deparment](https://www.unibw.de/lrt-en)
+- [Contact Us](mailto:phd-lrt82@lists.unibw.de)
 
