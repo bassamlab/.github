@@ -18,3 +18,4 @@ We welcome collaboration — feel free to explore, use, and contribute to our wo
 - [Small-Scale Testbed Survey](https://bassamlab.github.io/testbeds-survey/)
 - [IEEE ITSC 2026 - Workshop](https://bassamlab.github.io/IPerSense/): IPerSense (Infrastructure Perception and Sensing)
 - [IEEE ITSC 2026 - Invited Session](https://bassamlab.github.io/itsc2026-invited-session/): Bridging Optimal Control and Learning for Connected and Automated Vehicles
+- [Ufil Documentation](https://bassamlab.github.io/ufil-docs/): A Framework for Infrastructure-based Perception Systems
