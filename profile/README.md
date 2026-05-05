@@ -6,14 +6,13 @@ We welcome collaboration — feel free to explore, use, and contribute to our wo
 
 ## 📫 Contact & Links
 
-- [Our Lab](https://www.unibw.de/cas-en)
-- [CPM Lab, our Small-Scale Testbed for CAVs](https://cpm.lrt.unibw.de)
+- [Our Institute](https://www.unibw.de/cas-en)
+- [CPM Lab, our Small-Scale Testbed for CAVs]([https://cpm.lrt.unibw.de](https://bassamlab.github.io/cpm/))
 - [Our YouTube Channel](https://www.youtube.com/@bassamlab)
 - [Contact Us via email](mailto:phd-lrt82@lists.unibw.de)
 
 ## 🌐 Hosted Pages
 
-- [CPM Lab](https://bassamlab.github.io/cpm/)
 - [CPM Lab ROS 2 Documentation](https://bassamlab.github.io/cpm-lab-ros2-documentation/)
 - [CPM Remote](https://bassamlab.github.io/cpm-remote/)
 - [Small-Scale Testbed Survey](https://bassamlab.github.io/testbeds-survey/)
