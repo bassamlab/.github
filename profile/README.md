@@ -7,7 +7,7 @@ We welcome collaboration — feel free to explore, use, and contribute to our wo
 ## 📫 Contact & Links
 
 - [Our Institute](https://www.unibw.de/cas-en)
-- [CPM Lab, our Small-Scale Testbed for CAVs]([https://cpm.lrt.unibw.de](https://bassamlab.github.io/cpm/))
+- [CPM Lab, our Small-Scale Testbed for CAVs](https://bassamlab.github.io/cpm/)
 - [Our YouTube Channel](https://www.youtube.com/@bassamlab)
 - [Contact Us via email](mailto:phd-lrt82@lists.unibw.de)
 
